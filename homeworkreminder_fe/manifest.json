@@ -12,6 +12,6 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": {
-            "16": "logo192.png"
+    "16": "logo192.png"
   }
 }
