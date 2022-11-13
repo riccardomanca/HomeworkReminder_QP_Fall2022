@@ -13,5 +13,6 @@
   "background_color": "#ffffff",
   "icons": {
     "16": "logo192.png"
+    "32": "logo512.png"
   }
 }
